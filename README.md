@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @FazMaira
+- 👋 Hi, I’m @Farzana Maira
 - 👀 I’m interested in learning new tools and sourcing Talent 
 - 🌱 I’m currently learning RPA
 - 💞️ I’m looking to collaborate on hiring Talent for my direct clients
